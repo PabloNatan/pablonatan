@@ -1,7 +1,7 @@
 ## hey there, I'm Pablo Fullstack Javascript Developer👋
 
 ### Skills
-<div>
+<div style="flex">
 <img  src="https://user-images.githubusercontent.com/62909574/239472661-f4b108c2-5389-42ef-b164-1b64faf8af60.svg" alt="js" width="30" height="30" style="max-width:100%"></img>&nbsp;&nbsp;&nbsp;
 <img  src="https://user-images.githubusercontent.com/62909574/239473604-55cb7e31-e6c4-45cb-ab5e-493f20106f94.svg" alt="ts" width="30" height="30" style="max-width:100%"></img>&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/62909574/239477248-529ba90a-19fb-4ca7-a311-ab9b65ee458c.svg" alt="react" width="30" height="30" style="max-width:100%">&nbsp;&nbsp;&nbsp;
